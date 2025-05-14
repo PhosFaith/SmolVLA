@@ -1,0 +1,14 @@
+Flash Attention: 2.7.4.post1
+PyTorch: 2.6.0+cu124
+PyTorch CUDA Available: True
+PyTorch CUDA Version: 12.4
+Transformers: 4.50.1
+Accelerate: 1.5.2
+PEFT: 0.15.0
+Datasets: 3.4.1
+BitsandBytes: 0.45.4
+TensorFlow: 2.19.0
+TensorFlow GPUs: 1
+TensorBoard: 2.19.0
+NumPy: 2.0.2
+Pillow: 11.1.0
